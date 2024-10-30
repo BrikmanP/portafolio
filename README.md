@@ -43,7 +43,7 @@ Basado en el diseño de <a href="https://github.com/BartoszJarocki/cv">Bartosz J
 
 </div>
 
-<img src="brik.png"></img>
+<img src="brikman.png"></img>
 
 ## 🛠️ Stack
 
